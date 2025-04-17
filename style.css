@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+    body {
+        background-color: powderblue;
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #333;
+        padding: 20px;
+    }
+
+    h1 {
+        color: blue;
+        font-size: 2.5em;
+        margin-bottom: 20px;
+    }
+
+    p {
+        color: green;
+        font-size: 1.2em;
+        margin-bottom: 20px;
+    }
+
+    nav{
+        background-color: powderblue;
+        color: white;
+        padding: 10px;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .home-img img {
+        width: 250px;
+        height: auto;
+        border-radius: 15px;
+        object-fit: cover;
+      }
